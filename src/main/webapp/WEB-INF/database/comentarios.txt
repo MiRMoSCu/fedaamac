@@ -1,0 +1,35 @@
+MOVIN : movimientos de inversion
+AQUI APLICA LOS MOVIMIENTOS 'A' o 'R'
+id
+numreg
+grupo
+socio
+fecha
+numes
+cvemov
+tipo
+aprepac
+importe
+prom_inv
+descrip
+ctabco
+referenc
+tasa
+
+MOVPR : movimientos de prèstamo
+AQUI APLICA LOS MOVIMIENTOS 'P' o 'C'
+id
+numreg
+grupo
+socio
+fecha
+numes
+cvemov
+tipo
+aprepac
+importe
+prom_inv
+descrip
+ctabco
+referenc
+tasa

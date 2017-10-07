@@ -1,0 +1,13 @@
+Línea 42: la clase MSFlexGridLib.MSFlexGrid del control FC no era una clase de control cargada.
+Línea 54: la clase MSFlexGridLib.MSFlexGrid del control FS no era una clase de control cargada.
+Línea 48: el nombre de la propiedad _ExtentX de FC no es válido.
+Línea 49: el nombre de la propiedad _ExtentY de FC no es válido.
+Línea 50: el nombre de la propiedad _Version de FC no es válido.
+Línea 51: el nombre de la propiedad Rows de FC no es válido.
+Línea 52: el nombre de la propiedad Cols de FC no es válido.
+Línea 60: el nombre de la propiedad _ExtentX de FS no es válido.
+Línea 61: el nombre de la propiedad _ExtentY de FS no es válido.
+Línea 62: el nombre de la propiedad _Version de FS no es válido.
+Línea 63: el nombre de la propiedad Rows de FS no es válido.
+Línea 64: el nombre de la propiedad Cols de FS no es válido.
+Línea 65: el nombre de la propiedad FocusRect de FS no es válido.
