@@ -5,3 +5,6 @@ Modification desde mac
 Modificacion desde linux
 20171007.12:05
 Modification desde mac
+20171007.12:06
+Modificacion desde linux
+>>>>>>> origin/master
