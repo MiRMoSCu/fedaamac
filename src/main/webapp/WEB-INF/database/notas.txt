@@ -3,3 +3,5 @@ NOTAS:
 Modification desde mac
 20171007.12:03
 Modificacion desde linux
+20171007.12:06
+Modificacion desde linux
