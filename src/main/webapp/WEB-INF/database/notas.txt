@@ -7,4 +7,5 @@ Modificacion desde linux
 Modification desde mac
 20171007.12:06
 Modificacion desde linux
->>>>>>> origin/master
+20171007.12:12
+Se hizo un merge con el original y se modifica archivo
