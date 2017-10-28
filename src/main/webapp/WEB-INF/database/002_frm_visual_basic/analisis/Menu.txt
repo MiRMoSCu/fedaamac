@@ -1,0 +1,13 @@
+Movimientos
+--- Captura				001_FrmCaptura
+--- Relacion de movimientos		002_FGMovFed
+Socios
+--- Consulta de socios			003_FrmSocios
+--- Balance				004_FrmBalance
+--- Listas de socios en Flex Grid	005_FrmGrid
+--- Socios Morosos			006_FrmPrestamos
+Imprmir
+Inicializacion de Archivos
+--- Capitalizacion anual por dias.	007_FrmCapitalizar
+--- Inicio de ejercicio			
+Consulta Cuentahabientes
